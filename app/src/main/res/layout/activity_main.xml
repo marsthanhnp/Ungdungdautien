@@ -6,12 +6,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="right|top"
-    tools:context=".MainActivity"
-    tools:ignore="Orientation">
+    android:orientation="vertical"
+    tools:context=".MainActivity">
 <!--    Cltr + space: nhắc code, gợi ý-->
 <!--    Control + /: rào 1 dòng-->
 <!--    Control+Shift+/: rào 1 khối-->
-<!--    Alt + Enter: import thư viện khi bị lỗi, trỏ vào vùng lỗi và nhấn tổ hợp phím-->
+<!--    Alt + Enter: import thư viện khi bị lỗi, trỏ vào vùn    g lỗi và nhấn tổ hợp phím-->
 <!--    Cltr + Alt + l: format code-->
 <!--    - kích thước: sp ( cố định, không bị vỡ) dp ( co giãn)-->
 <!--    alt + Enter: import thư vien-->
@@ -26,6 +26,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
+        android:textSize="62sp"
+        android:background="#AA12A1A1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
