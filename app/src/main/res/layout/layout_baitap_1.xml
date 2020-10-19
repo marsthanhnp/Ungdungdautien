@@ -13,30 +13,45 @@
     android:layout_height="match_parent">
 
     <TextView
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="#F00"
         android:background="#FFEB3B"
         android:layout_weight="1"
         android:text="A"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <TextView
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="#F00"
         android:background="#CDDC39"
         android:layout_weight="1"
         android:text="B"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <TextView
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="#F00"
         android:background="#8BC34A"
         android:layout_weight="1"
         android:text="C"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <TextView
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="#F00"
         android:background="#4CAF50"
         android:layout_weight="1"
         android:text="D"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <TextView
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="#F00"
         android:background="#009688"
         android:layout_weight="1"
         android:text="E"
@@ -51,30 +66,45 @@
      android:layout_height="match_parent" >
 
      <TextView
+         android:textSize="20sp"
+         android:gravity="center"
+         android:textColor="#F00"
          android:background="#CDDC39"
          android:layout_weight="1"
          android:text="A"
          android:layout_width="wrap_content"
          android:layout_height="match_parent"/>
      <TextView
+         android:textSize="20sp"
+         android:gravity="center"
+         android:textColor="#F00"
          android:background="#FFEB3B"
          android:layout_weight="1"
          android:text="B"
          android:layout_width="wrap_content"
          android:layout_height="match_parent"/>
      <TextView
+         android:textSize="20sp"
+         android:gravity="center"
+         android:textColor="#F00"
          android:background="#FFC107"
          android:layout_weight="1"
          android:text="C"
          android:layout_width="wrap_content"
          android:layout_height="match_parent"/>
      <TextView
+         android:textSize="20sp"
+         android:gravity="center"
+         android:textColor="#F00"
          android:background="#FF9800"
          android:layout_weight="1"
          android:text="D"
          android:layout_width="wrap_content"
          android:layout_height="match_parent"/>
      <TextView
+         android:textSize="20sp"
+         android:gravity="center"
+         android:textColor="#673AB7"
          android:background="#FF5722"
          android:layout_weight="1"
          android:text="E"
